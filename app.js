@@ -1,4 +1,4 @@
-$(window).scroll(function () 
+$(window).scroll(function () {
     if ($(window).scrollTop() > 63) {
         if($('.nav-item').click() === true){
             $('.navbar').removeClass('navbar-fixed');
