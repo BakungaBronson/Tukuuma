@@ -15,7 +15,7 @@
     </section>
     
     <section class="us display variation" id="us">
-        <h1>About Us</h1>
+        <h1>Who We Are</h1>
         <div class="row d-flex justify-content-center align-items-center mt-3">
             <div class="col-8 justify-content-center align-items-center text-center">
                 <i class='bx bxs-tree bx-md'></i>
