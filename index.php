@@ -1,6 +1,4 @@
-<?php 
-    include 'header.php';
-?>
+<?php include_once 'header.php'; ?>
 <aside class="p-3">
     <span class="hide">Follow Us:</span>
     <i class='bx bxl-facebook-circle bx-rotate-270'></i>
@@ -146,6 +144,4 @@
         </div>
     </section>
 </main>
-<?php 
-    include 'footer.php';
-?>
+<?php include_once 'footer.php'; ?>

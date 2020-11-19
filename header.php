@@ -24,11 +24,11 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link active text-center" href="#">Home <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link text-center" href="#us">About Us</a>
-                <a class="nav-item nav-link text-center" href="#whatWeDo">What We Do</a>
-                <a class="nav-item nav-link text-center" href="#gallery">Images</a>
-                <a class="nav-item nav-link text-center" href="#contact">Contact Us</a>
+                <a class="nav-item nav-link active text-center" href="index.php">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link text-center" href="about.php">Who We Are</a>
+                <a class="nav-item nav-link text-center" href="wedo.php">What We Do</a>
+                <a class="nav-item nav-link text-center" href="index.php#gallery">Images</a>
+                <a class="nav-item nav-link text-center" href="index.php#contact">Contact Us</a>
                 </div>
             </div>
         </nav>

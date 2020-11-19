@@ -132,6 +132,9 @@ aside i:hover, aside i:focus {
     font-size: 3em;
 }
 
+.whitebg {
+    background-color: #ffffff;
+}
 
 @media only screen and (max-width: 600px) {
     .hide {
