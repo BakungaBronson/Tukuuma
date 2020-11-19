@@ -34,6 +34,17 @@
             </div>
         </div>
     </section>
+    <section>
+        <h1>Volunteer</h1>
+        <form action="" method="POST" class="form">
+            <label for="name">Name</label>
+            <input type="text" name="name">
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email">
+            <label for="location">Location</label>
+            <input type="text" name="location">
+        </form>
+    </section>
     <section class="copyright">
         <p class="text-center">Copyright &copy; Tukuuma 2020</p>
     </section>
