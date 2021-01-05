@@ -132,6 +132,12 @@ aside i:hover, aside i:focus {
     font-size: 3em;
 }
 
+#volunteer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .whitebg {
     background-color: #ffffff;
 }

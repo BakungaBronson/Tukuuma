@@ -30,7 +30,11 @@
         </div>
     </section>
 
-    <section class="gallery display variation" id="gallery">
+    <section>
+        <a class="twitter-timeline" data-width="600" data-height="600" data-theme="dark" href="https://twitter.com/TukuumaUg?ref_src=twsrc%5Etfw">Tweets by TukuumaUg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </section>
+
+    <section class="gallery display variation mt-4" id="gallery">
         <h1>Images</h1>
         <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel" data-interval="6000">
             <ol class="carousel-indicators">
