@@ -1,10 +1,9 @@
 <?php include_once 'header.php'; ?>
 <aside class="p-3">
     <span class="hide">Follow Us:</span>
-    <i class='bx bxl-facebook-circle bx-rotate-270'></i>
-    <i class='bx bxl-twitter bx-rotate-270'></i>
-    <i class='bx bxl-linkedin-square bx-rotate-270' ></i>
-    <i class='bx bxl-instagram-alt bx-rotate-270' ></i>
+    <!-- <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a> -->
+    <a href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
+    <a href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
 </aside>
 <main class="container">
     <section class="landing ">
@@ -18,20 +17,21 @@
         <h1>Who We Are</h1>
         <div class="row d-flex justify-content-center align-items-center mt-3">
             <div class="col-8 justify-content-center align-items-center text-center">
-                <i class='bx bxs-tree bx-md'></i>
+                <i class='bx bxs-tree bx-sm'></i><i class='bx bxs-tree bx-md'></i><i class='bx bxs-tree bx-sm'></i>
                 <p>
-                    TUKUUMA is a youth founded initiative focused on providing lasting solutions.
+                    Tukuuma is a youth founded initiative focused on providing lasting solutions that tackle the present environmental challenges of communities in Uganda and Africa.
                 </p>  
-                <i class='bx bxs-tree bx-md'></i>
+                <i class='bx bxs-tree bx-sm'></i><i class='bx bxs-tree bx-md'></i><i class='bx bxs-tree bx-sm'></i>
                 <p>   
                     Our goal is to facilitate, lead and advocate for environmental conservation and sustainability through project implementation and research.
                 </p>
             </div>
         </div>
-    </section>
+    </section> 
 
-    <section>
-        <a class="twitter-timeline" data-width="600" data-height="600" data-theme="dark" href="https://twitter.com/TukuumaUg?ref_src=twsrc%5Etfw">Tweets by TukuumaUg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <section id="twitter" style="display: flex; justify-content: center;">
+        <a class="twitter-timeline" data-width="600"
+  data-height="600" href="https://twitter.com/TukuumaUg?ref_src=twsrc%5Etfw">Tweets by TukuumaUg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </section>
 
     <section class="gallery display variation mt-4" id="gallery">
@@ -44,67 +44,43 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <a href="https://bootstrapcreative.com/">
-                        <!-- 
-                        If you need more browser support use https://scottjehl.github.io/picturefill/
-                        If a picture looks blurry on a retina device you can add a high resolution like this
-                        <source srcset="img/blog-post-1000x600-2.jpg, blog-post-1000x600-2@2x.jpg 2x" media="(min-width: 768px)">
-    
-                        What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
-                            -->
-                            <picture>
-                            <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/#007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)">
-                            <img srcset="https://dummyimage.com/600x900/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
-                        </picture>
-    
-                        <div class="carousel-caption">
-                            <div>
-                                <h2>Digital Craftsmanship</h2>
-                                <p>We meticously build each site to get results</p>
-                                <span class="btn btn-sm btn-outline-secondary">Learn More</span>
-                            </div>
+                    <!-- 
+                    If you need more browser support use https://scottjehl.github.io/picturefill/
+                    If a picture looks blurry on a retina device you can add a high resolution like this
+                    <source srcset="img/blog-post-1000x600-2.jpg, blog-post-1000x600-2@2x.jpg 2x" media="(min-width: 768px)">
+
+                    What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
+                        -->
+                    <img src="./cleanug.jpg" alt="" style="max-width: 100%;">
+
+                    <div class="carousel-caption">
+                        <div>
+                            <h2 class="blue">Environmental Wellness</h2>
+                            <p class="blue">Residents of Masaka District Clean The Environment</p>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <!-- /.carousel-item -->
                 <div class="carousel-item">
-                    <a href="https://bootstrapcreative.com/">
-                            <picture>
-                            <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)">
-                            <img srcset="https://dummyimage.com/600x900/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
-                        </picture>
-    
-                        <div class="carousel-caption justify-content-center align-items-center">
-                            <div>
-                                <h2>Every project begins with a sketch</h2>
-                                <p>We work as an extension of your business to explore solutions</p>
-                                <span class="btn btn-sm btn-outline-secondary">Our Process</span>
-                            </div>
+                    <img src="./youth.jpg" alt="" style="max-width: 100%;">
+
+                    <div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Every project begins with a sketch</h2>
+                            <p>We work as an extension of your business to explore solutions</p>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <!-- /.carousel-item -->
                 <div class="carousel-item">
-                    <a href="https://bootstrapcreative.com/">
-                            <picture>
-                            <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)">
-                            <img srcset="https://dummyimage.com/600x900/007aeb/4196e5" alt="responsive image" class="d-block img-fluid">
-                        </picture>
+                    <img src="./tk1.jpg" alt="" style="max-width: 100%;">
     
-                        <div class="carousel-caption justify-content-center align-items-center">
-                            <div>
-                                <h2>Performance Optimization</h2>
-                                <p>We monitor and optimize your site's long-term performance</p>
-                                <span class="btn btn-sm btn-secondary">Learn How</span>
-                            </div>
+                    <div class="carousel-caption justify-content-center align-items-center">
+                        <div>
+                            <h2>Nurturing the next generation.</h2>
+                            <p>Instruction in youth is like engraving in stone. ~African Proverb</p>
                         </div>
-                    </a>
+                    </div>
                 </div>
                 <!-- /.carousel-item -->
             </div>
@@ -127,7 +103,9 @@
                 <p class="logo">PMF LOGO</p>
             </div>
             <div class="col-5 justify-content-center align-items-center text-center">
-                <p class="logo">MERCHANTILE CREDIT BANK LOGO</p>
+                <img src="./mcb.svg" alt="mcb">
+                <br>
+                <p>Merchentile Credit Bank Limited</p>
             </div>
         </div>
     </section>

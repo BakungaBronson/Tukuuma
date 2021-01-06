@@ -34,16 +34,27 @@
             </div>
         </div>
     </section>
-    <section id="volunteer">
-        <h1>Volunteer</h1>
-        <form action="" method="POST" class="form">
-            <label for="name">Name</label>
-            <input type="text" name="name">
-            <label for="email">Email</label>
-            <input type="email" name="email" id="email">
-            <label for="location">Location</label>
-            <input type="text" name="location">
-        </form>
+    <section id="volunteer" style="text-align: center; padding-left: 3em; padding-right: 3em;">
+        <h3>
+            Do you have a project or activity that concerns the conservation of the environment, or are you passionate about protecting and restoring it?
+        </h3>
+        <p>
+            Partner or Volunteer with Tukuuma and help make a positive impact on our home.
+        </p>
+        <div class="row d-flex justify-content-center align-items-center mt-5">
+            <div class="col-5 justify-content-center align-items-center text-center">
+                <h1>Volunteer</h1>
+                <img src="./volunteer.svg" alt="volunteer" width="200px" height="200px">
+                <br>
+                <span style="color: red;"><p>&lt;&lt; Link to Google Form for volunteering. &gt;&gt;</p></span>
+            </div>
+            <div class="col-5 justify-content-center align-items-center text-center">
+                <h1>Partner With Us</h1>
+                <img src="./partner.svg" alt="mcb" width="200px" height="200px">
+                <br>
+                <span style="color: red;"><p>&lt;&lt; Link to Google Form for partnering. &gt;&gt;</p></span>
+            </div>
+        </div>
     </section>
     <section class="copyright">
         <p class="text-center">Copyright &copy; Tukuuma 2020</p>

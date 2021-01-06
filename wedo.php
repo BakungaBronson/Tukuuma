@@ -5,11 +5,11 @@
                 <div class="col-8 justify-content-center align-items-center text-center">
                     <i class='bx bxs-tree bx-md'></i>
                     <p>
-                        We partner with different companies and stakeholders with a heart for environmental stewardship to implement key environmental projects in Uganda and Africa.
+                        We partner with different companies and stakeholders and take on volunteers with a heart for environmental stewardship to implement key environmental projects in Uganda and Africa.
                     </p>
                     <i class='bx bxs-tree bx-md'></i>
                     <p>
-                        Our current projects include; Entasesa tree planting project, and Clean Uganda (a sanitation, and waste disposal project engaging children (schools) to take the lead role in protecting and preserving their environment).
+                        Our current projects include Entasesa tree planting project, and Clean Uganda (a sanitation and waste disposal project engaging children(schools) to take the lead role in protecting and preserving their environment.)
                     </p>
                 </div>
             </div>

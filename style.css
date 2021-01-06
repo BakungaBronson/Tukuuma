@@ -90,6 +90,10 @@ h1 {
     font-size: large;
 }
 
+.blue {
+    color: rgb(35, 35, 116);
+}
+
 .logo {
     display: flex;
     height: 10em;
@@ -136,10 +140,26 @@ aside i:hover, aside i:focus {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    padding-left: 3em !important;
+    padding-right: 3em !important;
+}
+
+#contact {
+    margin-top: 1px solid grey;
+    margin-bottom: 1px solid grey;
 }
 
 .whitebg {
     background-color: #ffffff;
+}
+
+.red {
+    color: red !important;
+}
+
+#imageset {
+    max-width: 100%;
 }
 
 @media only screen and (max-width: 600px) {
