@@ -180,6 +180,7 @@ aside i:hover, aside i:focus {
 
     .col-5 {
         max-width: 100% !important;
+        flex: auto !important;
     }
 
     .grow {
