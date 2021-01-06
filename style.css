@@ -178,6 +178,10 @@ aside i:hover, aside i:focus {
         font-size: 1.2em;
     }
 
+    .col5 {
+        max-width: 100% !important;
+    }
+
     .grow {
         flex-grow: 0;
         max-width: 100%;
