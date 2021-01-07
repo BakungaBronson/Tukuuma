@@ -5,32 +5,17 @@
             <div class="col-3 justify-content-center align-items-center text-center grow">
                 <div class="contactIcons"><i class='bx bx-current-location'></i></div>
                 <h3>Address</h3>
-                <h3 class="mt-4">Manager</h3>
                 <a href="mailto:example@me.com">Primary Email</a>
-                <h3 class="mt-4">Executive Director</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
-                <h3 class="mt-4">Partnerships Department</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
             </div>
             <div class="col-3 justify-content-center align-items-center text-center grow">
                 <div class="contactIcons"><i class='bx bxs-phone' ></i></div>
                 <h3>Phone</h3>
-                <h3 class="mt-4">Manager</h3>
-                <a href="mailto:example@me.com">Primary Email</a>
-                <h3 class="mt-4">Executive Director</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
-                <h3 class="mt-4">Partnerships Department</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
+                <a href="tel:+256782644408">+256782644408</a>
             </div>
             <div class="col-3 justify-content-center align-items-center text-center grow">
                 <div class="contactIcons"><i class='bx bx-mail-send'></i></div>
                 <h3>Email</h3>
-                <h3 class="mt-4">Manager</h3>
-                <a href="mailto:example@me.com">Primary Email</a>
-                <h3 class="mt-4">Executive Director</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
-                <h3 class="mt-4">Partnerships Department</h3>
-                <a href="mailto:example@me.com">Secondary Email</a>
+                <a href="mailto:tukuuma.ltd@gmail.com">Click Here</a>
             </div>
         </div>
     </section>
@@ -49,7 +34,7 @@
                 <span style="color: red;"><p>&lt;&lt; Link to Google Form for volunteering. &gt;&gt;</p></span>
             </div>
             <div class="col-5 justify-content-center align-items-center text-center">
-                <h1>Partner With Us</h1>
+                <h1>Partner</h1>
                 <img src="./partner.svg" alt="mcb" width="200px" height="200px">
                 <br>
                 <span style="color: red;"><p>&lt;&lt; Link to Google Form for partnering. &gt;&gt;</p></span>

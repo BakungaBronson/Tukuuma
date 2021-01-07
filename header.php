@@ -33,3 +33,10 @@
             </div>
         </nav>
     </header>
+    <aside class="p-3">
+        
+    <span class="hide">Follow Us:</span>
+        <!-- <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a> -->
+        <a href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
+        <a href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
+    </aside>

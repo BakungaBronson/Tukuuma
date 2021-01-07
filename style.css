@@ -89,10 +89,10 @@ h1 {
 #us, #whatWeDo {
     font-size: large;
 }
-
+/* 
 .blue {
     color: rgb(35, 35, 116);
-}
+} */
 
 .logo {
     display: flex;
@@ -181,6 +181,19 @@ aside i:hover, aside i:focus {
     .col-5 {
         max-width: 100% !important;
         flex: auto !important;
+    }
+
+    .col-3 {
+        max-width: 100% !important;
+        flex: auto !important;
+    }
+
+    .display {
+        min-height: unset;
+    }
+
+    .hide {
+        display: none;
     }
 
     .grow {

@@ -1,10 +1,4 @@
 <?php include_once 'header.php'; ?>
-<aside class="p-3">
-    <span class="hide">Follow Us:</span>
-    <!-- <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a> -->
-    <a href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
-    <a href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
-</aside>
 <main class="container">
     <section class="landing ">
         <img src="image-003.png" alt="logo">
@@ -51,9 +45,14 @@
 
                     What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
                         -->
-                    <img src="./cleanug.jpg" alt="" style="max-width: 100%;">
+                        <picture>
+                            <source srcset="./images/cleanug2000.jpg" media="(min-width: 1400px)">
+                            <source srcset="./images/cleanug1400.jpg" media="(min-width: 768px)">
+                            <source srcset="./images/cleanug800.jpg" media="(min-width: 576px)">
+                            <img srcset="./images/cleanug600.jpg" alt="responsive image" class="img-fluid">
+                        </picture>
 
-                    <div class="carousel-caption">
+                    <div class="carousel-caption justify-content-center align-items-center hide">
                         <div>
                             <h2 class="blue">Environmental Wellness</h2>
                             <p class="blue">Residents of Masaka District Clean The Environment</p>
@@ -62,9 +61,14 @@
                 </div>
                 <!-- /.carousel-item -->
                 <div class="carousel-item">
-                    <img src="./youth.jpg" alt="" style="max-width: 100%;">
+                        <picture>
+                            <source srcset="./images/youth2000.jpg" media="(min-width: 1400px)">
+                            <source srcset="./images/youth1400.jpg" media="(min-width: 768px)">
+                            <source srcset="./images/youth800.jpg" media="(min-width: 576px)">
+                            <img srcset="./images/youth600.jpg" alt="responsive image" class="img-fluid">
+                        </picture>
 
-                    <div class="carousel-caption justify-content-center align-items-center">
+                    <div class="carousel-caption justify-content-center align-items-center hide">
                         <div>
                             <h2>Every project begins with a sketch</h2>
                             <p>We work as an extension of your business to explore solutions</p>
@@ -73,9 +77,14 @@
                 </div>
                 <!-- /.carousel-item -->
                 <div class="carousel-item">
-                    <img src="./tk1.jpg" alt="" style="max-width: 100%;">
+                        <picture>
+                            <source srcset="./images/clean2000.jpg" media="(min-width: 1400px)">
+                            <source srcset="./images/clean1400.jpg" media="(min-width: 768px)">
+                            <source srcset="./images/clean800.jpg" media="(min-width: 576px)">
+                            <img srcset="./images/clean600.jpg" alt="responsive image" class="img-fluid">
+                        </picture>
     
-                    <div class="carousel-caption justify-content-center align-items-center">
+                    <div class="carousel-caption justify-content-center align-items-center hide">
                         <div>
                             <h2>Nurturing the next generation.</h2>
                             <p>Instruction in youth is like engraving in stone. ~African Proverb</p>
