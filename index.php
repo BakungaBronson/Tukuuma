@@ -70,8 +70,8 @@
 
                     <div class="carousel-caption justify-content-center align-items-center hide">
                         <div>
-                            <h2>Every project begins with a sketch</h2>
-                            <p>We work as an extension of your business to explore solutions</p>
+                            <h2>Hands On!</h2>
+                            <p>Working with the next generation to love, protect and nurture the environment</p>
                         </div>
                     </div>
                 </div>

@@ -18,7 +18,7 @@
 <body>
     <header id="header">
         <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#"><img src="image-002.png" alt="logo" id="headerLogo">Tukuuma</a>
+            <a class="navbar-brand" href="index.php"><img src="image-002.png" alt="logo" id="headerLogo">Tukuuma</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -37,6 +37,6 @@
         
     <span class="hide">Follow Us:</span>
         <!-- <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a> -->
-        <a href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
-        <a href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
+        <a target="_blank" href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
+        <a target="_blank" href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
     </aside>

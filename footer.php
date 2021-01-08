@@ -5,7 +5,7 @@
             <div class="col-3 justify-content-center align-items-center text-center grow">
                 <div class="contactIcons"><i class='bx bx-current-location'></i></div>
                 <h3>Address</h3>
-                <a href="mailto:example@me.com">Primary Email</a>
+                <a href="#">Location</a>
             </div>
             <div class="col-3 justify-content-center align-items-center text-center grow">
                 <div class="contactIcons"><i class='bx bxs-phone' ></i></div>
