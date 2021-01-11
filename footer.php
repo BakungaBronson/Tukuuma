@@ -19,7 +19,7 @@
             </div>
         </div>
     </section>
-    <section id="volunteer" style="text-align: center; padding-left: 3em; padding-right: 3em;">
+    <section id="volunteer" class="variation" style="text-align: center; padding-left: 3em; padding-right: 3em;">
         <h3>
             Do you have a project or activity that concerns the conservation of the environment, or are you passionate about protecting and restoring it?
         </h3>
@@ -42,7 +42,7 @@
         </div>
     </section>
     <section class="copyright">
-        <p class="text-center">Copyright &copy; Tukuuma 2020</p>
+        <p class="text-center">Copyright &copy; Tukuuma <script>document.write(new Date().getFullYear())</script></p>
     </section>
 </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

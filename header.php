@@ -27,7 +27,6 @@
                 <a class="nav-item nav-link text-center" href="index.php">Home <span class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link text-center" href="about.php">Who We Are</a>
                 <a class="nav-item nav-link text-center" href="wedo.php">What We Do</a>
-                <a class="nav-item nav-link text-center" href="index.php#gallery">Images</a>
                 <a class="nav-item nav-link text-center" href="index.php#contact">Contact Us</a>
                 </div>
             </div>
