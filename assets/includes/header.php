@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Tukuuma</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
 </head>
 <body>
     <header id="header">
         <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="index.php"><img src="image-002.png" alt="logo" id="headerLogo">Tukuuma</a>
+            <a class="navbar-brand" href="index.php"><img src="images/image-002.png" alt="logo" id="headerLogo">Tukuuma</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -27,15 +27,15 @@
                 <a class="nav-item nav-link text-center" href="index.php">Home <span class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link text-center" href="about.php">Who We Are</a>
                 <a class="nav-item nav-link text-center" href="wedo.php">What We Do</a>
-                <a class="nav-item nav-link text-center" href="index.php#contact">Contact Us</a>
+                <a class="nav-item nav-link text-center" href="contact.php">Get Involved</a>
                 </div>
             </div>
         </nav>
     </header>
-    <aside class="p-3">
+    <!-- <aside class="p-3">
         
     <span class="hide">Follow Us:</span>
-        <!-- <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a> -->
+        <a href=""><i class='bx bxl-facebook-circle bx-rotate-270'></i></a>
         <a target="_blank" href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter bx-rotate-270'></i></a>
         <a target="_blank" href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square bx-rotate-270' ></i></a>
-    </aside>
+    </aside> -->

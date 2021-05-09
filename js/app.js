@@ -1,3 +1,7 @@
+$(document).ready(function(){
+    $(".owl-carousel").owlCarousel();
+  });
+
 $(window).scroll(function () {
     if ($(window).scrollTop() > 63) {
         if($('.nav-item').click() === true){
