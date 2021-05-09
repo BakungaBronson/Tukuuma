@@ -41,4 +41,18 @@
             </div>
         </div>
     </section>
+    <section class="partners align-items-center variation-light" id="partners">
+        <h1>Our partners</h1>
+        <div class="row d-flex justify-content-center align-items-center mt-5" id="remove_margin">
+            <div class="col-sm p-3 justify-content-center text-center placeholder set_images">
+                <img src="assets/svg/miti.svg" alt="mcb">
+            </div>
+            <div class="col-sm  p-3 justify-content-center text-center placeholder set_images">
+                <img src="assets/svg/mcb.svg" alt="mcb">
+            </div>
+            <div class="col-sm p-3 justify-content-center text-center placeholder set_images">
+                <img src="images/palle.png" alt="palle logo">
+            </div>
+        </div>
+    </section>
 <?php include_once 'assets/includes/footer.php'; ?>
