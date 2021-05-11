@@ -1,12 +1,12 @@
 <?php include_once 'assets/includes/header.php'; ?>
 
-<section class="us variation-light" id="us">
-    <div class="row d-flex display justify-content-center align-items-center mt-3" id="remove_margin2">
-        <div class="col-6 justify-content-center align-items-center text-center">
+<section class="us variation-light display" id="us">
+    <div class="row d-flex justify-content-center align-items-center set_height" id="remove_margin2">
+        <div class="col-sm-6 justify-content-center align-items-center text-center">
             <h1>Current Goals</h1>
         </div>
-        <div class="col-6 justify-content-center align-items-center text-justify">
-            <div class="variation p-5">
+        <div class="col-sm-6 justify-content-center align-items-center text-justify p-2">
+            <div class="variation p-3">
                 <ul>
                     <li>To set up and/or contribute to the setup of 5 regional recycling plants and over 200 recycling workstations in communities in Uganda.</li>
                     <li>To plant over 200,000 trees by 2025.</li>
@@ -16,24 +16,39 @@
         </div>
     </div>
 </section>
+
+<section class="variation display">
+    <div class="row justify-content-center align-items-center" id="remove_margin3">
+        <div class="col-sm-4 d-flex align-items-end responsive_img set_height">
+            <img src="images/involved1.jpeg" alt="" style="max-width: 100%;">
+        </div>
+        <div class="col-sm-4 d-flex align-items-center responsive_img set_height">
+            <img src="images/involved2.jpeg" alt="" style="max-width: 100%;">
+        </div>
+        <div class="col-sm-4 d-flex align-items-start responsive_img set_height">
+            <img src="images/involved3.jpeg" alt="" style="max-width: 100%;">
+        </div>
+    </div>
+</section>
+
 <section class="us display variation-light border border-white">
     <div class="row d-flex justify-content-center align-items-center mt-3" id="remove_margin3">
         <h1>Get Involved</h1>
     </div>
     <div class="row d-flex justify-content-center align-items-center my-3" id="remove_margin4">
-        <div class="col-4 text-center">
+        <div class="col-sm-4 text-center">
             <a href="mailto:info@tukuuma.org?subject=RE: Volunteer">
                 <img src="assets/svg/volunteer_ppt.svg" alt="" srcset="">
                 <p>Volunteer</p>
             </a>
         </div>
-        <div class="col-4 text-center">
+        <div class="col-sm-4 text-center">
             <a href="mailto:info@tukuuma.org?subject=RE: Donation">
                 <img src="assets/svg/donate_ppt.svg" alt="" srcset="">
                 <p>Donate</p>
             </a>
         </div>
-        <div class="col-4 text-center">
+        <div class="col-sm-4 text-center">
             <a href="mailto:info@tukuuma.org?subject=RE: Partnership">
                 <img src="assets/svg/partner_ppt.svg" alt="" srcset="">
                 <p>Partner</p>
