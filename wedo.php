@@ -1,7 +1,7 @@
 <?php include_once 'assets/includes/header.php'; ?>
     <section class="us variation-light display" id="us">
         <div class="row d-flex align-items-center mt-3" id="remove_margin2">
-            <div class="col-sm-5 justify-content-center align-items-center d-flex align-items-start flex-column p-3 set_height1">
+            <div class="col-sm-6 justify-content-center align-items-center d-flex align-items-start flex-column p-3 set_height1">
                 <div class="row mb-auto p-2 text-justify" id="ticks" style="margin-left: 0; margin-right: 0;">
                     <ul>
                         <li>We partner with different stakeholders with a heart for environmental stewardship to implement key environmental projects in Uganda and Africa.</li>

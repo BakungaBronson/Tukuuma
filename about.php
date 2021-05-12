@@ -38,7 +38,7 @@
     <section class="us variation display" id="us">
         <div class="row d-flex justify-content-center align-items-center mt-3" id="remove_margin1">
             <div class="col-sm-4 align-items-center text-center d-flex align-items-start flex-column p-3 set_height">
-                <h1 class="dark_blue">Place Holder</h1>
+                <h1 class="dark_blue" id="dont_show">Place Holder</h1>
                 <div class="h-100 d-flex align-items-center justify-content-center">
                     <p>To facilitate, lead and advocate for environmental sustainability through partnership driven implementation of sustainable projects and research on alternative methods.</p>
                 </div>

@@ -10,7 +10,7 @@
                 <li data-target="#carousel" data-slide-to="3"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
-                <div class="carousel-item active">
+                <div class="carousel-item  active">
                         <!-- 
                         If you need more browser support use https://scottjehl.github.io/picturefill/
                         If a picture looks blurry on a retina device you can add a high resolution like this
@@ -19,34 +19,34 @@
                         What image sizes should you use? This can help - https://codepen.io/JacobLett/pen/NjramL
                             -->
                         <picture>
-                            <!-- <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/#007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)"> -->
-                            <img srcset="images/image-003.png" alt="responsive image" class="d-block img-fluid m-auto">
+                            <source srcset="images/responsive/logo-2000X900.png" media="(min-width: 1400px)">
+                            <source srcset="images/responsive/logo-1400X900.png" media="(min-width: 769px)">
+                            <source srcset="images/responsive/logo-800X900.png" media="(min-width: 577px)">
+                            <img srcset="images/responsive/logo-800X900.png" alt="responsive image" class="d-block img-fluid m-auto">
                         </picture>
 
                         <div class="carousel-caption">
                         </div>
                 </div>
                 <!-- /.carousel-item -->
-                <div class="carousel-item">
+                <div class="carousel-item ">
                         <picture>
-                            <!-- <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)"> -->
-                            <img srcset="images/image1.jpeg" alt="responsive image" class="d-block img-fluid m-auto">
+                            <source srcset="images/responsive/ceo-2000X900.jpg" media="(min-width: 1400px)">
+                            <source srcset="images/responsive/ceo-1400X900.jpg" media="(min-width: 769px)">
+                            <source srcset="images/responsive/ceo-800X900.jpg" media="(min-width: 577px)">
+                            <img srcset="images/responsive/ceo-800X900.jpg" alt="responsive image" class="d-block img-fluid m-auto">
                         </picture>
 
                         <div class="carousel-caption justify-content-center align-items-center">
                         </div>
                 </div>
                 <!-- /.carousel-item -->
-                <div class="carousel-item">
+                <div class="carousel-item ">
                         <picture>
-                            <!-- <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)"> -->
-                            <img srcset="images/image2.jpeg" alt="responsive image" class="d-block img-fluid m-auto">
+                            <source srcset="images/responsive/cleaning-2000X900.jpg" media="(min-width: 1400px)">
+                            <source srcset="images/responsive/cleaning-1400X900.jpg" media="(min-width: 769px)">
+                            <source srcset="images/responsive/cleaning-800X900.jpg" media="(min-width: 577px)">
+                            <img srcset="images/responsive/cleaning-800X900.jpg" alt="responsive image" class="d-block img-fluid m-auto">
                         </picture>
 
                         <div class="carousel-caption justify-content-center align-items-center">
@@ -54,12 +54,12 @@
                 </div>
                 <!-- /.carousel-item -->
                 <!-- /.carousel-item -->
-                <div class="carousel-item">
+                <div class="carousel-item ">
                         <picture>
-                            <!-- <source srcset="https://dummyimage.com/2000x900/007aeb/4196e5" media="(min-width: 1400px)">
-                            <source srcset="https://dummyimage.com/1400x900/007aeb/4196e5" media="(min-width: 769px)">
-                            <source srcset="https://dummyimage.com/800x900/007aeb/4196e5" media="(min-width: 577px)"> -->
-                            <img srcset="images/image3.jpeg" alt="responsive image" class="d-block img-fluid m-auto">
+                            <source srcset="images/responsive/team-2000X900.jpg" media="(min-width: 1400px)">
+                            <source srcset="images/responsive/team-1400X900.jpg" media="(min-width: 769px)">
+                            <source srcset="images/responsive/team-800X900.jpg" media="(min-width: 577px)">
+                            <img srcset="images/responsive/team-800X900.jpg" alt="responsive image" class="d-block img-fluid m-auto">
                         </picture>
 
                         <div class="carousel-caption justify-content-center align-items-center">
