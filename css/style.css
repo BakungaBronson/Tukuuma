@@ -47,7 +47,11 @@ ul {
 }
 
 .dark_blue {
-    color:rgb(60, 62, 85);
+    color:rgb(60, 62, 85) !important;
+}
+
+.dark_border a:hover {
+    background-color: rgba(60, 62, 85, .5) !important; 
 }
 
 #socials a:link{

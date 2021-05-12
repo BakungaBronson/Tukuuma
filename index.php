@@ -83,9 +83,9 @@
             </a>
         </div>
         <div class="text-center mt-2" id="socials">
-            <a target="_blank" href="#"><i class='bx bxl-youtube'></i></a>
-            <a target="_blank" href="https://twitter.com/TukuumaUg"><i class='bx bxl-twitter'></i></a>
-            <a target="_blank" href="https://www.linkedin.com/company/tukuuma"><i class='bx bxl-linkedin-square' ></i></a>
+            <a target="_blank" rel="noreferrer" href="#" name="YouTube"><i class='bx bxl-youtube'></i></a>
+            <a target="_blank" rel="noreferrer" href="https://twitter.com/TukuumaUg" name="Twitter"><i class='bx bxl-twitter'></i></a>
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/tukuuma" name="LinkedIn"><i class='bx bxl-linkedin-square' ></i></a>
         </div>
     </section>
 

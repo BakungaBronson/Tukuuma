@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="description" content="TUKUUMA is a youth founded and led non-profit, volunteer based organisation committed to providing lasting solutions for the current environmental challenges of communities in Uganda and Africa.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Tukuuma</title>
@@ -23,11 +24,11 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link text-center" href="index.php">Home <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link text-center" href="about.php">Who We Are</a>
-                <a class="nav-item nav-link text-center" href="wedo.php">What We Do</a>
-                <a class="nav-item nav-link text-center" href="contact.php">Get Involved</a>
+                <div class="navbar-nav ml-auto dark_border">
+                <a class="nav-item nav-link text-center" href="index.php" style="color:rgb(60, 62, 85) !important;">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link text-center" href="about.php" style="color:rgb(60, 62, 85) !important;">Who We Are</a>
+                <a class="nav-item nav-link text-center" href="wedo.php" style="color:rgb(60, 62, 85) !important;">What We Do</a>
+                <a class="nav-item nav-link text-center" href="contact.php" style="color:rgb(60, 62, 85) !important;">Get Involved</a>
                 </div>
             </div>
         </nav>
